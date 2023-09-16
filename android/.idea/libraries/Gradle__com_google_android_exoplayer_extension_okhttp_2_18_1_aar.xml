@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:extension-okhttp:2.18.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/48144a267f73450b9102e346e851d112/transformed/jetified-extension-okhttp-2.18.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48144a267f73450b9102e346e851d112/transformed/jetified-extension-okhttp-2.18.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-okhttp/2.18.1/7c9ea5a71a7915ebb9d161eb6dd4d37a43deae7f/extension-okhttp-2.18.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

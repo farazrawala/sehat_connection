@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">858867397092-543smdrbvm35f6vgq5g06vefs1qt3dli.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">858867397092</string>
+    <string name="google_api_key" translatable="false">AIzaSyBNlj_eKao1Ybi6-UZ_1qD0VDLg-LZ4Xys</string>
+    <string name="google_app_id" translatable="false">1:858867397092:android:bac5e871f459fd9bff17f1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBNlj_eKao1Ybi6-UZ_1qD0VDLg-LZ4Xys</string>
+    <string name="google_storage_bucket" translatable="false">sehat-connection.appspot.com</string>
+    <string name="project_id" translatable="false">sehat-connection</string>
+</resources>

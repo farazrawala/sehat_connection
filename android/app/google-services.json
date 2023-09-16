@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "858867397092",
+    "project_id": "sehat-connection",
+    "storage_bucket": "sehat-connection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858867397092:android:bac5e871f459fd9bff17f1",
+        "android_client_info": {
+          "package_name": "com.sehatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858867397092-543smdrbvm35f6vgq5g06vefs1qt3dli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNlj_eKao1Ybi6-UZ_1qD0VDLg-LZ4Xys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858867397092-543smdrbvm35f6vgq5g06vefs1qt3dli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858867397092-cundqc9k1c5q37loqqk3nba6igf53kub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rnvideochat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_lab_services.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_lab_services.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_cat_banner.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_cat_banner.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_logo_gray.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_logo_gray.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_coviimg.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_coviimg.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_home_care.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_home_care.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_righticon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_righticon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_liaquatnational.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_liaquatnational.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_bigplus.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_bigplus.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_history_icon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_history_icon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_requestmodalimg.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_requestmodalimg.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_scheduled_icon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_scheduled_icon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/raw_src_assets_sehat_call_alert_2.mp3.flat",
+        "source": "com.sehatapp-react-37:/raw/src_assets_sehat_call_alert_2.mp3"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_medication.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_medication.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_wallet_icon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_wallet_icon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_pending_icon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_pending_icon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_treatment.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_treatment.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_men_avatar.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_men_avatar.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_video_doctor_banner.jpeg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_video_doctor_banner.jpeg"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_doctr_banner.jpg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_doctr_banner.jpg"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_cameraicon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_cameraicon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_doctoravatar.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_doctoravatar.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_healthcare_icon.jpeg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_healthcare_icon.jpeg"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_southcity.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_southcity.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_blood_bank.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_blood_bank.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_doctordummy.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_doctordummy.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_easypaisa.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_easypaisa.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_logo.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_logo.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_pharmacy_service_banner.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_pharmacy_service_banner.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_aghakhan.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_aghakhan.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_cash.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_cash.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_upaisa.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_upaisa.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_online_pharmacy_banner.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_online_pharmacy_banner.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_plus.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_plus.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_doctrprofileimg.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_doctrprofileimg.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_women_avatar.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_women_avatar.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_quotation_icon.jpeg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_quotation_icon.jpeg"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_doctr.jpeg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_doctr.jpeg"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_product_banner1.jpeg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_product_banner1.jpeg"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_waiting_icon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_waiting_icon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_doctorprofilebg.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_doctorprofilebg.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_video_consultation_icon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_video_consultation_icon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_pharmacy_service.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_pharmacy_service.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_downarrow.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_downarrow.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_splashbg.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_splashbg.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_diagtest.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_diagtest.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_home_banner.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_home_banner.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_hospital_appointment_icon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_hospital_appointment_icon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_ambulance.jpeg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_ambulance.jpeg"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_wallet_banner_icon.jpeg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_wallet_banner_icon.jpeg"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_hosp_logo_avatar.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_hosp_logo_avatar.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_visacard.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_visacard.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_attachment.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_attachment.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_jazzcash.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_jazzcash.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_membership.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_membership.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_dctr_app_icon.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_dctr_app_icon.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_northcity.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_northcity.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_avatar.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_avatar.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_billing_icon_2.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_billing_icon_2.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_video_banner.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_video_banner.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_sehat_wallet.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_sehat_wallet.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_add_attch.png.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_add_attch.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.sehatapp-main-43:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sehatapp-merged_res-42:/drawable-mdpi_src_assets_sehat_wallet_money.jpeg.flat",
+        "source": "com.sehatapp-react-37:/drawable-mdpi/src_assets_sehat_wallet_money.jpeg"
+    }
+]
